@@ -13,7 +13,7 @@
 #Creating a Repository  
 To create a repository we need to use **_bare_**  
 * git init --bare myapp.git  
-###Cloning into the repo  
+### Cloning into the repo  
 * git clone --local myapp.git myapp  
 ### Creating a file  
 * vim readme  
