@@ -21,7 +21,7 @@ To create a repository we need to use **_bare_**
 * git status  
 ### Adding the newly created file  
 * git add readme  
-###Commit  
+### Commit  
 * git commit readme  
 ### Watch git Satus  
 To watch git status we use this command  
@@ -32,4 +32,4 @@ This command will give the output as **Origin**
 * git remote show origin  
 ### Push to master  
 * git push origin master  
-##Here we are done wit git configuration and creating a repository....  [To Create Repository Click here](www.github.com)
+##Here we are done wit git configuration and creating a repository....  [To Create Repository Click here](https://github.com)
