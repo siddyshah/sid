@@ -1,16 +1,16 @@
-#What is Git? 
+# What is Git? 
 > Git is a **_free_** and _**opensource**_ _DVCS_(Distributed Versio Control System). 
 > It is used to handle any kind of projects with **Speed** and **Efficiency**  
-##Configuring Git  We can Configure Git for :-  
+## Configuring Git  We can Configure Git for :-  
 * Project -> Project Specific 
 * global  -> User Specific 
 * Sysytem -> System Specific / System Wide  
-##_Configuring it Globally_  
+## _Configuring it Globally_  
 1. git configure --global user.name "ABC" 
 2. git configure --global user.email "xyz@gmail.com" 
 3. git configure --global color.ui auto 
 4. git congigure --global core.editor vim  
-#Creating a Repository  
+# Creating a Repository  
 To create a repository we need to use **_bare_**  
 * git init --bare myapp.git  
 ### Cloning into the repo  
