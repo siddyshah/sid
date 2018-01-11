@@ -37,3 +37,4 @@ This command will give the output as **Origin**
 	git remote show 
 	git remote show origin 
 	git push origin master
+	git push github master
