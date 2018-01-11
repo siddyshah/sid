@@ -34,7 +34,8 @@ This command will give the output as **Origin**
 * git push origin master  
 ##Here we are done wit git configuration and creating a repository....  [To Create Repository Click here](https://github.com)
 
-	git remote show 
-	git remote show origin 
-	git push origin master
-	git push github master
+		
+		git remote show 
+		git remote show origin 
+		git push origin master
+		git push github master
